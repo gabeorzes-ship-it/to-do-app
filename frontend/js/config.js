@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://to-do-app-1cod.onrender.com';
 const APP_NAME = 'Energise';
 
 function applyAppName() {
